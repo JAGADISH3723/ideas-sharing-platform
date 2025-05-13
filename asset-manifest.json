@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ideas-sharing-platform/static/css/main.47d4a45d.css",
+    "main.js": "/ideas-sharing-platform/static/js/main.f61f6f3f.js",
+    "index.html": "/ideas-sharing-platform/index.html",
+    "main.47d4a45d.css.map": "/ideas-sharing-platform/static/css/main.47d4a45d.css.map",
+    "main.f61f6f3f.js.map": "/ideas-sharing-platform/static/js/main.f61f6f3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47d4a45d.css",
+    "static/js/main.f61f6f3f.js"
+  ]
+}
