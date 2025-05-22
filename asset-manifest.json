@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ideas-sharing-platform/static/css/main.f5b1361e.css",
-    "main.js": "/ideas-sharing-platform/static/js/main.f767743a.js",
+    "main.css": "/ideas-sharing-platform/static/css/main.9153e48d.css",
+    "main.js": "/ideas-sharing-platform/static/js/main.70f8a1e0.js",
     "index.html": "/ideas-sharing-platform/index.html",
-    "main.f5b1361e.css.map": "/ideas-sharing-platform/static/css/main.f5b1361e.css.map",
-    "main.f767743a.js.map": "/ideas-sharing-platform/static/js/main.f767743a.js.map"
+    "main.9153e48d.css.map": "/ideas-sharing-platform/static/css/main.9153e48d.css.map",
+    "main.70f8a1e0.js.map": "/ideas-sharing-platform/static/js/main.70f8a1e0.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5b1361e.css",
-    "static/js/main.f767743a.js"
+    "static/css/main.9153e48d.css",
+    "static/js/main.70f8a1e0.js"
   ]
 }
